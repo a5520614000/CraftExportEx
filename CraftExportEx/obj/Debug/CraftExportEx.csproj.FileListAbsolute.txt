@@ -1,0 +1,26 @@
+F:\public ws\Git\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe.config
+F:\public ws\Git\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csprojResolveAssemblyReference.cache
+F:\public ws\Git\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe
+F:\public ws\Git\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.pdb
+F:\public ws\Git\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.exe
+F:\public ws\Git\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.pdb
+F:\public ws\Git\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.CraftExportForm.resources
+F:\public ws\Git\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csproj.GenerateResource.Cache
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe.config
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.exe
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.pdb
+F:\BaiduCloud\Source COde\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe.config
+F:\BaiduCloud\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.exe
+F:\BaiduCloud\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.pdb
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.pdb
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csprojResolveAssemblyReference.cache
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.CraftExportForm.resources
+F:\百度网盘\Source COde\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\bin\Debug\CraftExportEx.exe.config
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.exe
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.pdb
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.CraftExportForm.resources
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.Properties.Resources.resources
+C:\Users\Andy\Desktop\CraftExportEx\CraftExportEx\obj\Debug\CraftExportEx.csproj.GenerateResource.Cache
