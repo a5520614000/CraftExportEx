@@ -3734,7 +3734,7 @@ namespace CraftExport.Helpers
                 new Recipe{ Id = 918, ItemId = 4657, ClassJobType = ClassJobType.Culinarian,  Name = "红焖皮皮拉鱼", Level = 8 },
                 new Recipe{ Id = 917, ItemId = 4689, ClassJobType = ClassJobType.Culinarian,  Name = "油炒鸡油菌", Level = 8 },
                 new Recipe{ Id = 919, ItemId = 4659, ClassJobType = ClassJobType.Culinarian,  Name = "水煮蝲蛄", Level = 9 },
-                new Recipe{ Id = 920, ItemId = 4673, ClassJobType = ClassJobType.Culinarian,  Name = "清炖牛肉", Level = 9 },
+                new Recipe{ Id = 920, ItemId = 4673, ClassJobType = ClassJobType.Culinarian,  Name = "清炖羊肉", Level = 9 },
                 new Recipe{ Id = 921, ItemId = 4854, ClassJobType = ClassJobType.Culinarian,  Name = "可可油", Level = 10 },
                 new Recipe{ Id = 1497, ItemId = 2589, ClassJobType = ClassJobType.Culinarian,  Name = "虾虎丸子", Level = 10 },
                 new Recipe{ Id = 922, ItemId = 4681, ClassJobType = ClassJobType.Culinarian,  Name = "杰克南瓜灯", Level = 10 },

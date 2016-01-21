@@ -1953,7 +1953,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "CraftExportFormNew";
             this.Opacity = 0.95D;
-            this.Text = "CraftExport HeavenSward V1.35 - Modified by Lycorisrda";
+            this.Text = "CraftExport HeavenSward V1.36 - Modified by Lycorisrda";
             this.Load += new System.EventHandler(this.CraftExportForm_Load);
             this.CraftClassGroup.ResumeLayout(false);
             this.RecipeContainer.ResumeLayout(false);
